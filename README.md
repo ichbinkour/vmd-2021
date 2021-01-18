@@ -1,4 +1,4 @@
-# Vizualisation of massive data
+# Visualiation of massive data
 
 ### Students
 - Théo Gibet-Meheust - 
