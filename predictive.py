@@ -23,6 +23,6 @@ plt.legend(loc='lower right')
 
 plt.scatter(y_pred, np.asarray(y_test), 10, label='Prediction of Fifa player Score')
 plt.title("Prediction of Fifa player Score'")
-plt.xlabel('Predition')
+plt.xlabel('Prediction')
 plt.ylabel('Reality')
 plt.show()
