@@ -28,9 +28,7 @@ for x in sys.argv:
     else:
         dataset = pd.read_csv("data.csv")
 
-
-print(dataset) 
-pd.show_versions()
+print(dataset)
 # change here to print different variable 
 dataset.plot.scatter(y='hits', x='potential', c=param, colormap='viridis' , title= "Scatter plot between potential and hits")
 # show the scatter plot 
